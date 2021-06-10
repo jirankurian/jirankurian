@@ -19,24 +19,19 @@
 </p>
 
 <p align=center>
-<code>
-<img alt="visual studio code" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png"/>
-</code>
-<code>
-. <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-</code>
-<code>
-. <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-</code>
-<code>
-. <img alt="Rust" width="40px" src="./icons/rust.png"/>
-</code>
-<code>
-. <img alt="MySQL" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-</code>
-<code>
-. <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-</code>
+
+  <img alt="visual studio code" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png"/>
+&nbsp;&nbsp;&nbsp;
+  <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+&nbsp;&nbsp;&nbsp;
+  <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+&nbsp;&nbsp;&nbsp;
+  <img alt="Rust" width="40px" src="./icons/rust.png"/>
+&nbsp;&nbsp;&nbsp;
+  <img alt="MySQL" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+&nbsp;&nbsp;&nbsp;
+  <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+
 </p>
 
 ---
