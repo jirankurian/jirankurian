@@ -12,7 +12,15 @@
   &nbsp;
   [![Google Scholar](https://img.shields.io/badge/-GoogleScholar-darkgreen?style=flat-square&logo=Google&logoColor=white)](https://scholar.google.com/citations?user=8gGdGIEAAAAJ&hl=en&authuser=1)
 
+  <div style="float: right">
+
+  ![](https://visitor-badge.glitch.me/badge?page_id=jirankurian.jirankurian)
+
+  </div>
+
 </div>
+
+
 
 ### About me!
  * PhD Research Scholar @ [CHRIST (Deemed to be University), Bangalore](https://christuniversity.in/)
