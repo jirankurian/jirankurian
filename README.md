@@ -18,26 +18,24 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirankurian&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=12"/>
 </p>
 
----
-
 <p align=center>
 <code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png"/>
+<img alt="visual studio code" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png"/>
 </code>
 <code>
-. <img alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+. <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 </code>
 <code>
-. <img alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+. <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 </code>
 <code>
-. <img alt="Rust" width="26px" src="./icons/rust.png"/>
+. <img alt="Rust" width="40px" src="./icons/rust.png"/>
 </code>
 <code>
-. <img alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+. <img alt="MySQL" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </code>
 <code>
-. <img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+. <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 </code>
 </p>
 
