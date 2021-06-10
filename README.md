@@ -12,12 +12,6 @@
   &nbsp;
   [![Google Scholar](https://img.shields.io/badge/-GoogleScholar-darkgreen?style=flat-square&logo=Google&logoColor=white)](https://scholar.google.com/citations?user=8gGdGIEAAAAJ&hl=en&authuser=1)
 
-  <div style="float: right">
-
-  ![](https://visitor-badge.glitch.me/badge?page_id=jirankurian.jirankurian)
-
-  </div>
-
 </div>
 
 
@@ -48,3 +42,13 @@
   <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 
 </p>
+
+---
+
+  <div align=center>
+
+  ![](https://visitor-badge.glitch.me/badge?page_id=jirankurian.jirankurian)
+
+  </div>
+
+---
