@@ -1,13 +1,27 @@
 ### Hi, I'm <a href="https://innvt.in" target="_blank">Jiran Kurian</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/jirankurian)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jirankurian_/)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@jirankurian)
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-darkgreen?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jirankurian)
-&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jirankurian.jirankurian)
+<div style="float:left;">
 
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/jirankurian)
+  &nbsp;
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jirankurian_/)
+  &nbsp;
+  [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@jirankurian)
+  &nbsp;
+  [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-darkgreen?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jirankurian)
 
-## About me!
+</div>
+
+<div style="float:right">
+
+  ![](https://visitor-badge.glitch.me/badge?page_id=jirankurian.jirankurian)
+
+</div>
+
+<br>
+<br>
+
+### About me!
  * PhD Research Scholar @ [CHRIST (Deemed to be University), Bangalore](https://christuniversity.in/)
  * Currently researching on Artificial General Intelligence
  * Co - founder @ [Innvt](innvt.in)
