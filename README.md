@@ -1,4 +1,4 @@
-### Hi, I'm <a href="https://innvt.in" target="_blank">Jiran Kurian</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jirankurian.jirankurian)
+### Hi, I'm <a href="https://innvt.in" target="_blank">Jiran Kurian</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jirankurian.jirankurian)
 
 <div>
 
