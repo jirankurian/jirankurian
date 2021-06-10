@@ -1,8 +1,11 @@
 ### Hi, I'm <a href="https://innvt.in" target="_blank">Jiran Kurian</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/jirankurian)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jirankurian_/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@jirankurian)
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-darkgreen?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jirankurian)
 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jirankurian.jirankurian)
+
 
 ## About me!
  * PhD Research Scholar @ [CHRIST (Deemed to be University), Bangalore](https://christuniversity.in/)
@@ -22,10 +25,10 @@
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png"/>
 </code>
 <code>
-. <img alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
+. <img alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 </code>
 <code>
-. <img alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
+. <img alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 </code>
 <code>
 . <img alt="Rust" width="26px" src="./icons/rust.png"/>
@@ -34,7 +37,7 @@
 . <img alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </code>
 <code>
-.<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png">
+.<img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 </code>
 </p>
 
