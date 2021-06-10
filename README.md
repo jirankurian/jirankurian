@@ -37,7 +37,7 @@
 . <img alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </code>
 <code>
-.<img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+. <img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 </code>
 </p>
 
