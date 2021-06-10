@@ -1,4 +1,4 @@
-### Hi, I'm <a href="https://innvt.in" target="_blank">Jiran Kurian</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jirankurian.jirankurian)
+### Hi, I'm <a href="https://innvt.in" target="_blank">Jiran Kurian</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 <div>
 
@@ -6,9 +6,11 @@
   &nbsp;
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jirankurian_/)
   &nbsp;
-  [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@jirankurian)
+  [![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-square&logo=Medium&logoColor=white)](https://medium.com/@jirankurian)
   &nbsp;
   [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-darkgreen?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jirankurian)
+  &nbsp;
+  [![Google Scholar](https://img.shields.io/badge/-GoogleScholar-darkgreen?style=flat-square&logo=Google&logoColor=white)](https://scholar.google.com/citations?user=8gGdGIEAAAAJ&hl=en&authuser=1)
 
 </div>
 
