@@ -10,7 +10,7 @@
   &nbsp;
   [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-darkgreen?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jirankurian)
   &nbsp;
-  [![Google Scholar](https://img.shields.io/badge/-GoogleScholar-darkgreen?style=flat-square&logo=Google&logoColor=white)](https://scholar.google.com/citations?user=8gGdGIEAAAAJ&hl=en&authuser=1)
+  [![Google Scholar](https://img.shields.io/badge/-GoogleScholar-4885ed?style=flat-square&logo=Google&logoColor=white)](https://scholar.google.com/citations?user=8gGdGIEAAAAJ&hl=en&authuser=1)
 
 </div>
 
