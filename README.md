@@ -16,10 +16,11 @@
 
 
 
-### About me!
+### About me?
  * PhD Research Scholar @ [CHRIST (Deemed to be University), Bangalore](https://christuniversity.in/)
- * Currently researching on Artificial General Intelligence
- * Co - founder @ [Innvt](innvt.in)
+ * Currently researching on Artificial General Intelligence & Exoplanetology
+ * Co - founder @ [Innvt](innvt.in) (inprogress; 
+                @ [Escores](escores.in) (2016 - 2019)
  * [Resume](https://www.canva.com/design/DAEfZENMYiA/sK4RWGFSqpKWbBKCK7EmRA/view?utm_content=DAEfZENMYiA&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 <p>
