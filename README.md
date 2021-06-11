@@ -50,5 +50,3 @@
   ![](https://visitor-badge.glitch.me/badge?page_id=jirankurian.jirankurian)
 
   </div>
-
----
