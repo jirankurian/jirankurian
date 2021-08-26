@@ -6,7 +6,9 @@
   &nbsp;
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jirankurian_/)
   &nbsp;
-  [![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-square&logo=Medium&logoColor=white)](https://medium.com/@jirankurian)
+  [![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-square&logo=Medium&logoColor=white)](https://stories.jirankurian.com/)
+  &nbsp;
+  [![Hashnode Badge](https://img.shields.io/badge/Hashnode-darkblue.svg?&style=for-square&logo=Hashnode&logoColor=white)](https://tech.jirankurian.com/)
   &nbsp;
   [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-darkgreen?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jirankurian)
   &nbsp;
