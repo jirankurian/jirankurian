@@ -37,8 +37,6 @@
 
 <p align=center>
 
-  <img alt="visual studio code" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png"/>
-&nbsp;&nbsp;&nbsp;
   <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 &nbsp;&nbsp;&nbsp;
   <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
