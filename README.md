@@ -28,7 +28,7 @@
  * Currently researching on Artificial General Intelligence.  
    & Exoplanetology (Exoplanetary Science).
  * Co - founder @ [Escores](https://www.escorez.in) (2016 - 2019).
- [Comment]: <> (* Co - founder @ [Innvt](https://www.innvt.in)              
+ * Co - founder @ [Innvt](https://www.innvt.in)              
  * Chech out my [Resume](https://www.canva.com/design/DAEfZENMYiA/sK4RWGFSqpKWbBKCK7EmRA/view?utm_content=DAEfZENMYiA&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) to know more
 
 <p>
