@@ -24,9 +24,7 @@
 
 ### About me?
  * Software Engineer @ [Cloudbloom](https://www.cloudbloom.io/).
- * PhD Research Scholar @ [CHRIST (Deemed to be University), Bangalore](https://christuniversity.in/).
- * Currently researching on Artificial General Intelligence.  
-   & Exoplanetology (Exoplanetary Science).
+ * PhD Research Scholar @ [CHRIST (Deemed to be University), Bangalore](https://christuniversity.in/). Research Topic: Artificial General Intelligence & Exoplanetology (Exoplanetary Science).
  * Co - founder @ [Escores](https://www.escorez.in) (2016 - 2019).
  * Co - founder @ [Innvt](https://www.innvt.in)              
  * Chech out my [Resume](https://www.canva.com/design/DAEfZENMYiA/sK4RWGFSqpKWbBKCK7EmRA/view?utm_content=DAEfZENMYiA&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) to know more
