@@ -37,20 +37,20 @@
 </table>
 
 <div align="center">
-  <div>
+  <div style="display: inline-block">
   <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <br>
   Python
   </div>
   
-  <div>
+  <div style="display: inline-block">
   <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <br>
     C Sharp
   </div>
   
   
-  <div>
+  <div style="display: inline-block">
     <img alt="Rust" width="40px" src="./icons/rust.png"/>
   <br>
     Rust
