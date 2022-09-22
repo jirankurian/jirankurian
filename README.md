@@ -38,9 +38,8 @@
 
 <style>
   .main {
-            display: flex;
-        }
-}
+    display: flex;
+  }
 </style>
 
 <div class="main">
