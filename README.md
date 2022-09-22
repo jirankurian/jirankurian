@@ -36,14 +36,14 @@
   </tr>
 </table>
 
-<div style="display: flex">
-  <div>
+<div align="center">
+  <div style="display: flex">
   <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <br>
   Python
   </div>
 &nbsp;&nbsp;&nbsp;
-  <div>
+  <div style="display: flex">
   <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <br>
     C Sharp
