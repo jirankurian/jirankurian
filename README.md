@@ -49,11 +49,11 @@
 &nbsp;&nbsp;&nbsp;
   <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 &nbsp;&nbsp;&nbsp;
-  <img alt="Extended Reality" width="35px" src="./icons/ExtendedReality.png">
+  <img alt="Extended Reality" width="40px" src="./icons/ExtendedReality.png">
 &nbsp;&nbsp;&nbsp;
-  <img alt="Blockchain" width="35px" src="./icons/Blockchain.png">
+  <img alt="Blockchain" width="40px" src="./icons/Blockchain.png">
 &nbsp;&nbsp;&nbsp;
-  <img alt="Artificial Intelligence" width="35px" src="./icons/ArtificialIntelligence.png">
+  <img alt="Artificial Intelligence" width="40px" src="./icons/ArtificialIntelligence.png">
 </div>
 
 ---
