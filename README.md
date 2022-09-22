@@ -37,31 +37,70 @@
 </table>
 
 <div align="center">
-  <div style="display: flex">
+  <div>
   <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <br>
   Python
   </div>
-&nbsp;&nbsp;&nbsp;
-  <div style="display: flex">
+  
+  <div>
   <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <br>
     C Sharp
   </div>
-&nbsp;&nbsp;&nbsp;
-  <img alt="Rust" width="40px" src="./icons/rust.png"/>
-&nbsp;&nbsp;&nbsp;
-  <img alt="MySQL" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-&nbsp;&nbsp;&nbsp;
-  <img alt="SurrealDB" width="35px" src="https://surrealdb.com/static/img/home/logo@2x-d163555351df26f3481b09211b6ef843.png">  
-&nbsp;&nbsp;&nbsp;
-  <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-&nbsp;&nbsp;&nbsp;
-  <img alt="Extended Reality" width="40px" src="./icons/ExtendedReality.png">
-&nbsp;&nbsp;&nbsp;
-  <img alt="Blockchain" width="40px" src="./icons/Blockchain.png">
-&nbsp;&nbsp;&nbsp;
+  
+  
+  <div>
+    <img alt="Rust" width="40px" src="./icons/rust.png"/>
+  <br>
+    Rust
+  </div>
+  
+  
+  <div>
+    <img alt="MySQL" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <br>
+    MySQL
+  </div>
+  
+  
+  <div>
+    <img alt="SurrealDB" width="35px" src="https://surrealdb.com/static/img/home/logo@2x-d163555351df26f3481b09211b6ef843.png">  
+  <br>
+    SurrealDB
+  </div>
+  
+  
+  <div>
+    <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <br>
+    MongoDB
+  </div>
+  
+  
+  <div>
+    <img alt="Extended Reality" width="40px" src="./icons/ExtendedReality.png">
+  <br>
+    Extended Reality
+  </div>
+  
+  
+  <div>
+    <img alt="Blockchain" width="40px" src="./icons/Blockchain.png">
+  <br>
+    Blockchain
+  </div>
+  
+  
+  <div>
   <img alt="Artificial Intelligence" width="40px" src="./icons/ArtificialIntelligence.png">
+  <br>
+    Artificial Intelligence
+  </div>
+  
+  
+
+
 </div>
 
 ---
