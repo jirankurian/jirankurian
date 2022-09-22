@@ -38,13 +38,21 @@
 
 <div align="Center">
   <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"/>
+  &nbsp;&nbsp;&nbsp;
   <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C Sharp"/>
+  &nbsp;&nbsp;&nbsp;
   <img alt="Rust" width="40px" src="./icons/rust.png" title="Rust"/>
+  &nbsp;&nbsp;&nbsp;
   <img alt="MySQL" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
+  &nbsp;&nbsp;&nbsp;
   <img alt="SurrealDB" width="35px" src="https://surrealdb.com/static/img/home/logo@2x-d163555351df26f3481b09211b6ef843.png" title="SurrealDB">  
+  &nbsp;&nbsp;&nbsp;
   <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB">
+  &nbsp;&nbsp;&nbsp;
   <img alt="Extended Reality" width="40px" src="./icons/ExtendedReality.png" title="Extended Reality">
+  &nbsp;&nbsp;&nbsp;
   <img alt="Blockchain" width="40px" src="./icons/Blockchain.png" title="Blockchain">
+  &nbsp;&nbsp;&nbsp;
   <img alt="Artificial Intelligence" width="40px" src="./icons/ArtificialIntelligence.png" title="Artificial Intelligence">  
 </div>
 
