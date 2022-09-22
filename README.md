@@ -48,16 +48,13 @@
   <img alt="SurrealDB" width="35px" src="https://surrealdb.com/static/img/home/logo@2x-d163555351df26f3481b09211b6ef843.png">  
 &nbsp;&nbsp;&nbsp;
   <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-</div>
+&nbsp;&nbsp;&nbsp;
+  <img alt="MongoDB" width="50px" src="https://www.flaticon.com/free-icon/artificial-intelligence_901002?term=artificial%20intelligence&page=1&position=4&page=1&position=4&related_id=901002&origin=search#">
+&nbsp;&nbsp;&nbsp;
+  <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 &nbsp;&nbsp;&nbsp;
   <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 </div>
-&nbsp;&nbsp;&nbsp;
-  <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-</div>
-&nbsp;&nbsp;&nbsp;
-  <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-</div>a
 
 ---
 
