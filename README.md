@@ -37,7 +37,11 @@
 </table>
 
 <div align='center'>
+  <div>
   <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <br>
+  Python
+  </div>
 &nbsp;&nbsp;&nbsp;
   <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 &nbsp;&nbsp;&nbsp;
