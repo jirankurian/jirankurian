@@ -36,21 +36,28 @@
   </tr>
 </table>
 
-<div align="center">
-  <div style="display: inline-block">
+<style>
+  .main {
+            display: flex;
+        }
+}
+</style>
+
+<div class="main">
+  <div>
   <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <br>
   Python
   </div>
   
-  <div style="display: inline-block">
+  <div>
   <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <br>
     C Sharp
   </div>
   
   
-  <div style="display: inline-block">
+  <div>
     <img alt="Rust" width="40px" src="./icons/rust.png"/>
   <br>
     Rust
@@ -85,18 +92,18 @@
   </div>
   
   
-  <span>
+  <div>
     <img alt="Blockchain" width="40px" src="./icons/Blockchain.png">
   <br>
     Blockchain
-  </span>
+  </div>
   
   
-  <span>
+  <div>
   <img alt="Artificial Intelligence" width="40px" src="./icons/ArtificialIntelligence.png">
   <br>
     Artificial Intelligence
-  </span>
+  </div>
   
   
 
