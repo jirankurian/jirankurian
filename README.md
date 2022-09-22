@@ -36,13 +36,7 @@
   </tr>
 </table>
 
-<style>
-  .main {
-    display: flex;
-  }
-</style>
-
-<div class="main">
+<div style="display: flex">
   <div>
   <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <br>
