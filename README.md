@@ -29,6 +29,13 @@
  * Co - founder @ [Innvt](https://www.innvt.in)              
  * Chech out my [Resume](https://www.canva.com/design/DAEfZENMYiA/sK4RWGFSqpKWbBKCK7EmRA/view?utm_content=DAEfZENMYiA&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) to know more
 
+<table align="center" border="0">
+  <tr>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jirankurian&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/></td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirankurian&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=12" align='right'/></td>
+  </tr>
+</table>
+
 <div align='center'>
   <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 &nbsp;&nbsp;&nbsp;
@@ -42,15 +49,6 @@
 &nbsp;&nbsp;&nbsp;
   <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 </div>
-
-<table align="center">
-  <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jirankurian&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirankurian&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=12" align='right'/></td>
-  </tr>
-</table>
-
-
 ---
 
   <div align=center>
