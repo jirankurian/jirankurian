@@ -85,18 +85,18 @@
   </div>
   
   
-  <div>
+  <span>
     <img alt="Blockchain" width="40px" src="./icons/Blockchain.png">
   <br>
     Blockchain
-  </div>
+  </span>
   
   
-  <div>
+  <span>
   <img alt="Artificial Intelligence" width="40px" src="./icons/ArtificialIntelligence.png">
   <br>
     Artificial Intelligence
-  </div>
+  </span>
   
   
 
