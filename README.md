@@ -33,9 +33,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirankurian&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=12" align='right'/>
 </div>
 <div align='center'>
-  <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-&nbsp;&nbsp;&nbsp;
   <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+&nbsp;&nbsp;&nbsp;
+  <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 &nbsp;&nbsp;&nbsp;
   <img alt="Rust" width="40px" src="./icons/rust.png"/>
 &nbsp;&nbsp;&nbsp;
@@ -43,7 +43,7 @@
 &nbsp;&nbsp;&nbsp;
   <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 &nbsp;&nbsp;&nbsp;
-  <img alt="SurrealDB" width="50px" src="https://surrealdb.com/static/img/home/logo@2x-d163555351df26f3481b09211b6ef843.png">
+  <img alt="SurrealDB" width="40px" src="https://surrealdb.com/static/img/home/logo@2x-d163555351df26f3481b09211b6ef843.png">
 
 </div>
 
