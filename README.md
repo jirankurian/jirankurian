@@ -36,71 +36,16 @@
   </tr>
 </table>
 
-<div style="display: flex">
-  <div>
-  <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <br>
-  Python
-  </div>
-  
-  <div>
-  <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <br>
-    C Sharp
-  </div>
-  
-  
-  <div>
-    <img alt="Rust" width="40px" src="./icons/rust.png"/>
-  <br>
-    Rust
-  </div>
-  
-  
-  <div>
-    <img alt="MySQL" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <br>
-    MySQL
-  </div>
-  
-  
-  <div>
-    <img alt="SurrealDB" width="35px" src="https://surrealdb.com/static/img/home/logo@2x-d163555351df26f3481b09211b6ef843.png">  
-  <br>
-    SurrealDB
-  </div>
-  
-  
-  <div>
-    <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <br>
-    MongoDB
-  </div>
-  
-  
-  <div>
-    <img alt="Extended Reality" width="40px" src="./icons/ExtendedReality.png">
-  <br>
-    Extended Reality
-  </div>
-  
-  
-  <div>
-    <img alt="Blockchain" width="40px" src="./icons/Blockchain.png">
-  <br>
-    Blockchain
-  </div>
-  
-  
-  <div>
-  <img alt="Artificial Intelligence" width="40px" src="./icons/ArtificialIntelligence.png" title="nice">
-  <br>
-    Artificial Intelligence
-  </div>
-  
-  
-
-
+<div align="Center">
+  <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"/>
+  <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C Sharp"/>
+  <img alt="Rust" width="40px" src="./icons/rust.png" title="Rust"/>
+  <img alt="MySQL" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
+  <img alt="SurrealDB" width="35px" src="https://surrealdb.com/static/img/home/logo@2x-d163555351df26f3481b09211b6ef843.png" title="SurrealDB">  
+  <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB">
+  <img alt="Extended Reality" width="40px" src="./icons/ExtendedReality.png" title="Extended Reality">
+  <img alt="Blockchain" width="40px" src="./icons/Blockchain.png" title="Blockchain">
+  <img alt="Artificial Intelligence" width="40px" src="./icons/ArtificialIntelligence.png" title="Artificial Intelligence">  
 </div>
 
 ---
