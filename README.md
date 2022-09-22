@@ -49,11 +49,11 @@
 &nbsp;&nbsp;&nbsp;
   <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 &nbsp;&nbsp;&nbsp;
-  <img alt="MongoDB" width="50px" src="https://www.flaticon.com/free-icon/artificial-intelligence_901002?term=artificial%20intelligence&page=1&position=4&page=1&position=4&related_id=901002&origin=search#">
+  <img alt="Extended Reality" width="50px" src="./icons/ExtendedReality.png">
 &nbsp;&nbsp;&nbsp;
-  <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img alt="Blockchain" width="50px" src="./icons/Blockchain.png">
 &nbsp;&nbsp;&nbsp;
-  <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img alt="Artificial Intelligence" width="50px" src="./icons/ArtificialIntelligence.png">
 </div>
 
 ---
