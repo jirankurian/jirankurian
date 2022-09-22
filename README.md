@@ -43,7 +43,7 @@
 &nbsp;&nbsp;&nbsp;
   <img alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 &nbsp;&nbsp;&nbsp;
-  <img alt="SurrealDB" width="40px" src="https://surrealdb.com/static/img/home/logo@2x-d163555351df26f3481b09211b6ef843.png">
+  <img alt="SurrealDB" width="35px" src="https://surrealdb.com/static/img/home/logo@2x-d163555351df26f3481b09211b6ef843.png">
 
 </div>
 
