@@ -30,8 +30,8 @@
  * Chech out my [Resume](https://www.canva.com/design/DAEfZENMYiA/sK4RWGFSqpKWbBKCK7EmRA/view?utm_content=DAEfZENMYiA&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) to know more
 
 <div style="display:flex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jirankurian&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirankurian&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jirankurian&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" width="50%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirankurian&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=12" width="50%"/>
 </div>
 
 <p align=center>
