@@ -43,8 +43,11 @@
   Python
   </div>
 &nbsp;&nbsp;&nbsp;
-  
+  <div>
   <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <br>
+    C Sharp
+  </div>
 &nbsp;&nbsp;&nbsp;
   <img alt="Rust" width="40px" src="./icons/rust.png"/>
 &nbsp;&nbsp;&nbsp;
