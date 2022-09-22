@@ -93,7 +93,7 @@
   
   
   <div>
-  <img alt="Artificial Intelligence" width="40px" src="./icons/ArtificialIntelligence.png">
+  <img alt="Artificial Intelligence" width="40px" src="./icons/ArtificialIntelligence.png" data-hover="nice">
   <br>
     Artificial Intelligence
   </div>
