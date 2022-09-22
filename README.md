@@ -32,7 +32,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jirankurian&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirankurian&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=12" align='right'/>
 </div>
-<div align='left'>
+<div align='center'>
   <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 &nbsp;&nbsp;&nbsp;
   <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
