@@ -4,8 +4,6 @@
 
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/jirankurian)
   &nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jirankurian_/)
-  &nbsp;
   [![Reddit Badge](https://img.shields.io/badge/-Reddit-orange?style=flat-square&logo=Reddit&logoColor=white)](https://www.reddit.com/user/JiranKurian)
   &nbsp;
   [![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-square&logo=Medium&logoColor=white)](https://stories.jirankurian.com/)
