@@ -33,11 +33,15 @@
 </div>
 
 <div align="Center">
-  <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"/>
-  &nbsp;&nbsp;&nbsp;
   <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C Sharp"/>
   &nbsp;&nbsp;&nbsp;
+  <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"/>
+  &nbsp;&nbsp;&nbsp;
   <img alt="Rust" width="40px" src="./icons/rust.png" title="Rust"/>
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Go" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go"/>
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Mojo" width="40px" src="./icons/mojo.png" title="Mojo"/>
   &nbsp;&nbsp;&nbsp;
   <img alt="MySQL" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
   &nbsp;&nbsp;&nbsp;
