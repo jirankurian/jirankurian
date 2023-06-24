@@ -41,7 +41,7 @@
   &nbsp;&nbsp;&nbsp;
   <img alt="Go" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go"/>
   &nbsp;&nbsp;&nbsp;
-  <img alt="Mojo" width="40px" src="./icons/mojo.png" title="Mojo"/>
+  <img alt="Mojo" width="38px" src="./icons/mojo.png" title="Mojo"/>
   &nbsp;&nbsp;&nbsp;
   <img alt="MySQL" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
   &nbsp;&nbsp;&nbsp;
