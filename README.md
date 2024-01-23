@@ -21,6 +21,7 @@
 
 
 ### About me?
+ * Tech Lead @ [Tech Avant Garde](http://techavantgarde.co/) (2023 - Present).
  * Software Engineer @ [Cloudbloom](https://www.cloudbloom.io/) (2022 - 2023).
  * PhD Research Scholar @ [CHRIST (Deemed to be University), Bangalore](https://christuniversity.in/). Research Topic: Artificial General Intelligence & Exoplanetology (Exoplanetary Science).
  * Co - founder @ [Escores](https://www.escores.in) (2015 - 2020).
